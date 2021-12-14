@@ -1,0 +1,27 @@
+1)Start the literature rewiew for the final report
+
+Type of attacks i could use for collecting data:
+dos attack and sql injection
+My choice: Script a DOS attack(look online how to script 1)
+
+can be tested in cali linux suystem in lab 2102
+
+Programs to perform threath detection:
+security inion
+or wireshark
+
+
+folder bin in linux can be used to analyse are log files in linux
+
+
+
+for report whn i go to libray type dissertation that helpo with weriting literature
+
+
+for literature review
+https://www.ed.ac.uk/institute-academic-development/study-hub/learning-resources/literature-review
+
+https://www.scribbr.co.uk/thesis-dissertation/literature-review/
+
+for detecting threaths
+https://securityonionsolutions.com/
