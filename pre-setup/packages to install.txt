@@ -1,0 +1,10 @@
+-> pip install sockets
+
+-> pip install telnetlib3
+
+-> pip install ipython
+
+-> pip install --pre scapy[complete]
+additional software for scapy can be downloaded from here: https://scapy.readthedocs.io/en/latest/installation.html#platform-specific-instructions
+
+-> 
