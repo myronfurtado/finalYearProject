@@ -1,0 +1,14 @@
+-> should i change my project name to :
+Determining if Cyberattacks(DDos/Dos) can be analysed and studying network logs from devices
+from
+Determining if Cyberattacks and Network anomalies can be detected by analyzing andstudying network logs from devices
+
+-> is having jusst my model in Jupyter notebook going to be enough as i dont have time to code 
+	anyhting complex as output
+
+
+
+-> Classifiy data as either DDOS or not DDOS, 1 dataset needs to be tet_train_split
+-> tell the user if DDOs attack has been detected
+-> Display the ipaddress that is the source of the attacks
+-> REport how many rows were classified correctly
