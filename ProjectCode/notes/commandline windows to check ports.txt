@@ -1,5 +1,0 @@
-To check if the port 80 is open uusing commandline
--> netstat -ano
-
-To check the PID associated with the port
--> tasklist
