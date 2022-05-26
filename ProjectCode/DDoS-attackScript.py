@@ -1,5 +1,4 @@
 #Third try of DDoS code
-from re import S
 import socket;
 import threading;
 
@@ -27,6 +26,5 @@ for i in range(500):
 
 
 
-
-
 # code based and adapted from: https://www.neuralnine.com/code-a-ddos-script-in-python/
+
