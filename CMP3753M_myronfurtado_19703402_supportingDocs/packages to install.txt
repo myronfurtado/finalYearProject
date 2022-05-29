@@ -1,0 +1,28 @@
+Open Anaconda ternimal and type the commands below to install the packages
+
+For the DDoS script in VS code
+-> pip install sockets
+
+-> pip install telnetlib3
+
+-> pip install ipython
+
+-> pip install --pre scapy[complete]
+additional software for scapy can be downloaded from here: https://scapy.readthedocs.io/en/latest/installation.html#platform-specific-instructions
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Packages for ML model in Jupyter-notebook/Anaconda environment
+
+-> pip install jupyter
+
+-> pip install sklearn
+
+-> pip install pandas
+
+-> pip install numpy
+
+-> pip install matplotlib
+
+-> pip install seaborn
+
